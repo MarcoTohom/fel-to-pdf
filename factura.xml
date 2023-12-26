@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><dteGTDocumento xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" Version="0.1">
+  <dteSAT ClaseDocumento="dte">
+    <dteDTE ID="DatosCertificados">
+      <dteDatosEmision ID="DatosEmision">
+        <dteDatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2023-12-22T00:00:00" Tipo="FACT" />
+        <dteEmisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" NITEmisor="75423952" NombreComercial="DIVISION DIGITAL" NombreEmisor="DIVISION DIGITAL">
+          <dteDireccionEmisor>
+            <dteDireccion>6 AVENIDA 0-60 4 GRAN CENTRO COMERCIAL ZONA 4 NIVEL 2 LOCAL 210 Y 211</dteDireccion>
+            <dteCodigoPostal>0</dteCodigoPostal>
+            <dteMunicipio>Guatemala</dteMunicipio>
+            <dteDepartamento>Guatemala</dteDepartamento>
+            <dtePais>GT</dtePais>
+          </dteDireccionEmisor>
+        </dteEmisor>
+        <dteReceptor CorreoReceptor="ddoperaciones1@digitalcentroamerica.com" IDReceptor="86350293" NombreReceptor="MERCADOWEB  SOCIEDAD ANONIMA">
+          <dteDireccionReceptor>
+            <dteDireccion>VIA 4 1-30 1 EDIFICIO CAMPUS TECNOLOGICO I  LOCAL 105, 1 NIVEL  GUATEMALA , </dteDireccion>
+            <dteCodigoPostal>0</dteCodigoPostal>
+            <dteMunicipio>GUATEMALA</dteMunicipio>
+            <dteDepartamento>GUATEMALA</dteDepartamento>
+            <dtePais>GT</dtePais>
+          </dteDireccionReceptor>
+        </dteReceptor>
+        <dteFrases>
+          <dteFrase CodigoEscenario="1" TipoFrase="1" />
+        </dteFrases>
+        <dteItems>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>50</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001329 Linterna LED de Cabeza para Manos Libres Recargable</dteDescripcion>
+            <dtePrecioUnitario>22</dtePrecioUnitario>
+            <dtePrecio>1100</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>982.142857</dteMontoGravable>
+                <dteMontoImpuesto>117.857143</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>1100</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>50</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001311 Cobertor para Motos Impermeable</dteDescripcion>
+            <dtePrecioUnitario>14.08</dtePrecioUnitario>
+            <dtePrecio>704</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>628.571429</dteMontoGravable>
+                <dteMontoImpuesto>75.428571</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>704</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>50</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001317 Cobertor Impermeable Extra Grande para Moto</dteDescripcion>
+            <dtePrecioUnitario>24.64</dtePrecioUnitario>
+            <dtePrecio>1232</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>1100</dteMontoGravable>
+                <dteMontoImpuesto>132</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>1232</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001390 Lampara UV Para U?as</dteDescripcion>
+            <dtePrecioUnitario>14.96</dtePrecioUnitario>
+            <dtePrecio>448.8</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>400.714286</dteMontoGravable>
+                <dteMontoImpuesto>48.085714</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>448.8</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001321 Linterna LED con Zoom Recargable</dteDescripcion>
+            <dtePrecioUnitario>24.64</dtePrecioUnitario>
+            <dtePrecio>739.2</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>660</dteMontoGravable>
+                <dteMontoImpuesto>79.2</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>739.2</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001314 Corrector de Postura Sport Unitalla Ajustable</dteDescripcion>
+            <dtePrecioUnitario>29.04</dtePrecioUnitario>
+            <dtePrecio>871.2</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>777.857143</dteMontoGravable>
+                <dteMontoImpuesto>93.342857</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>871.2</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001308 Kit para Manicure de 8 Piezas</dteDescripcion>
+            <dtePrecioUnitario>22</dtePrecioUnitario>
+            <dtePrecio>660</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>589.285714</dteMontoGravable>
+                <dteMontoImpuesto>70.714286</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>660</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001245 Soporte para Laptop hasta 15" Rosado</dteDescripcion>
+            <dtePrecioUnitario>15.84</dtePrecioUnitario>
+            <dtePrecio>475.2</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>424.285714</dteMontoGravable>
+                <dteMontoImpuesto>50.914286</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>475.2</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000134 Nintendo Switch Gomitas Joy-Con Rojo 2 unidades</dteDescripcion>
+            <dtePrecioUnitario>10.56</dtePrecioUnitario>
+            <dtePrecio>316.8</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>282.857143</dteMontoGravable>
+                <dteMontoImpuesto>33.942857</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>316.8</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000951 Cable USB OTG Lightning</dteDescripcion>
+            <dtePrecioUnitario>35.2</dtePrecioUnitario>
+            <dtePrecio>1056</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>942.857143</dteMontoGravable>
+                <dteMontoImpuesto>113.142857</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>1056</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001445 Vidrio Templado para Consolas de Nintendo Switch</dteDescripcion>
+            <dtePrecioUnitario>35.2</dtePrecioUnitario>
+            <dtePrecio>1056</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>942.857143</dteMontoGravable>
+                <dteMontoImpuesto>113.142857</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>1056</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000135 Funda para  Pulgares (Palancas) de Switch Azul</dteDescripcion>
+            <dtePrecioUnitario>10.56</dtePrecioUnitario>
+            <dtePrecio>316.8</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>282.857143</dteMontoGravable>
+                <dteMontoImpuesto>33.942857</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>316.8</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>6998818020324 Bater?as CR2032 3V Pack de 5 Unidades</dteDescripcion>
+            <dtePrecioUnitario>12.32</dtePrecioUnitario>
+            <dtePrecio>369.6</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>330</dteMontoGravable>
+                <dteMontoImpuesto>39.6</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>369.6</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001398 Termometro Digital de Cocina Para Comida</dteDescripcion>
+            <dtePrecioUnitario>17.6</dtePrecioUnitario>
+            <dtePrecio>528</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>471.428571</dteMontoGravable>
+                <dteMontoImpuesto>56.571429</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>528</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>30</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001428 Antena Wifi Inal?mbrica USB 2.0</dteDescripcion>
+            <dtePrecioUnitario>30.8</dtePrecioUnitario>
+            <dtePrecio>924</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>825</dteMontoGravable>
+                <dteMontoImpuesto>99</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>924</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001283 Post-it Adhesivos Transparentes - 50 Notas</dteDescripcion>
+            <dtePrecioUnitario>6.16</dtePrecioUnitario>
+            <dtePrecio>92.4</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>82.5</dteMontoGravable>
+                <dteMontoImpuesto>9.9</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>92.4</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000664 Adaptador de Audio Bluetooth USB</dteDescripcion>
+            <dtePrecioUnitario>22</dtePrecioUnitario>
+            <dtePrecio>330</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>294.642857</dteMontoGravable>
+                <dteMontoImpuesto>35.357143</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>330</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001337 Hisopos de Madera - 200 Unidades</dteDescripcion>
+            <dtePrecioUnitario>4.4</dtePrecioUnitario>
+            <dtePrecio>66</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>58.928571</dteMontoGravable>
+                <dteMontoImpuesto>7.071429</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>66</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001375 Bater?as Recargables AA - 4 Unidades</dteDescripcion>
+            <dtePrecioUnitario>26.4</dtePrecioUnitario>
+            <dtePrecio>396</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>353.571429</dteMontoGravable>
+                <dteMontoImpuesto>42.428571</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>396</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000818 Tienda de Acampar Impermeable para 2 a 3 Personas</dteDescripcion>
+            <dtePrecioUnitario>96.8</dtePrecioUnitario>
+            <dtePrecio>1452</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>1296.428571</dteMontoGravable>
+                <dteMontoImpuesto>155.571429</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>1452</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000681 Cuerda Para Saltar y Ejercicio Cardiovascular</dteDescripcion>
+            <dtePrecioUnitario>17.6</dtePrecioUnitario>
+            <dtePrecio>264</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>235.714286</dteMontoGravable>
+                <dteMontoImpuesto>28.285714</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>264</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001395 Set de 13 Cuchillas</dteDescripcion>
+            <dtePrecioUnitario>17.6</dtePrecioUnitario>
+            <dtePrecio>264</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>235.714286</dteMontoGravable>
+                <dteMontoImpuesto>28.285714</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>264</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000133 Estuches de Silicon para Joy-Con Rojo/Azul</dteDescripcion>
+            <dtePrecioUnitario>22</dtePrecioUnitario>
+            <dtePrecio>330</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>294.642857</dteMontoGravable>
+                <dteMontoImpuesto>35.357143</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>330</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001444 Estuche Deluxe Travel para Nintendo Switch Case Negro</dteDescripcion>
+            <dtePrecioUnitario>66</dtePrecioUnitario>
+            <dtePrecio>990</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>883.928571</dteMontoGravable>
+                <dteMontoImpuesto>106.071429</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>990</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001011 Adaptador USB Bluetooth 5.0 para Computadora</dteDescripcion>
+            <dtePrecioUnitario>30.8</dtePrecioUnitario>
+            <dtePrecio>462</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>412.5</dteMontoGravable>
+                <dteMontoImpuesto>49.5</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>462</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>15</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001335 Soporte para Televisi?n de 14 a 55" Ajustable</dteDescripcion>
+            <dtePrecioUnitario>74.8</dtePrecioUnitario>
+            <dtePrecio>1122</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>1001.785714</dteMontoGravable>
+                <dteMontoImpuesto>120.214286</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>1122</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001034 Tarjeta Multifuncional 11 En 1  de Acero</dteDescripcion>
+            <dtePrecioUnitario>6.6</dtePrecioUnitario>
+            <dtePrecio>66</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>58.928571</dteMontoGravable>
+                <dteMontoImpuesto>7.071429</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>66</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000895 Adaptador de Auxiliar 3.5 mm a USB 2.0</dteDescripcion>
+            <dtePrecioUnitario>8.8</dtePrecioUnitario>
+            <dtePrecio>88</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>78.571429</dteMontoGravable>
+                <dteMontoImpuesto>9.428571</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>88</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001324 Guantes Antideslizantes Para Pantalla T?ctil</dteDescripcion>
+            <dtePrecioUnitario>17.6</dtePrecioUnitario>
+            <dtePrecio>176</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>157.142857</dteMontoGravable>
+                <dteMontoImpuesto>18.857143</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>176</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001235 Mochila con Puerto de Carga USB negro</dteDescripcion>
+            <dtePrecioUnitario>88</dtePrecioUnitario>
+            <dtePrecio>880</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>785.714286</dteMontoGravable>
+                <dteMontoImpuesto>94.285714</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>880</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001402 Soporte 360? en Retrovisor para Celular Negro</dteDescripcion>
+            <dtePrecioUnitario>29.04</dtePrecioUnitario>
+            <dtePrecio>290.4</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>259.285714</dteMontoGravable>
+                <dteMontoImpuesto>31.114286</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>290.4</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001333 Guante con Cepillo Suave para mascotas</dteDescripcion>
+            <dtePrecioUnitario>15.84</dtePrecioUnitario>
+            <dtePrecio>158.4</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>141.428571</dteMontoGravable>
+                <dteMontoImpuesto>16.971429</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>158.4</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>6992352101006 Caja de Luz para Fotos de Alta Calidad</dteDescripcion>
+            <dtePrecioUnitario>52.8</dtePrecioUnitario>
+            <dtePrecio>528</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>471.428571</dteMontoGravable>
+                <dteMontoImpuesto>56.571429</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>528</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001455 Mouse Inal?mbrico de 1200 DPI Negro</dteDescripcion>
+            <dtePrecioUnitario>30.8</dtePrecioUnitario>
+            <dtePrecio>308</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>275</dteMontoGravable>
+                <dteMontoImpuesto>33</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>308</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001328 Peine Para Planchar el Pelo</dteDescripcion>
+            <dtePrecioUnitario>6.16</dtePrecioUnitario>
+            <dtePrecio>61.6</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>55</dteMontoGravable>
+                <dteMontoImpuesto>6.6</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>61.6</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000478 Aud?fonos P47 Bluetooth con MicroSD y FM Gris/Azul</dteDescripcion>
+            <dtePrecioUnitario>44</dtePrecioUnitario>
+            <dtePrecio>440</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>392.857143</dteMontoGravable>
+                <dteMontoImpuesto>47.142857</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>440</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000076 Micr?fono de solapa Lavalier con Conexi?n Plug 3.5 mm</dteDescripcion>
+            <dtePrecioUnitario>19.36</dtePrecioUnitario>
+            <dtePrecio>193.6</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>172.857143</dteMontoGravable>
+                <dteMontoImpuesto>20.742857</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>193.6</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>7870817653477 Tr?pode Pro Con Giro 360 Grados</dteDescripcion>
+            <dtePrecioUnitario>24.64</dtePrecioUnitario>
+            <dtePrecio>246.4</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>220</dteMontoGravable>
+                <dteMontoImpuesto>26.4</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>246.4</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>8998194460422 Liquido Removedor de Rayones para Carro de 100ml</dteDescripcion>
+            <dtePrecioUnitario>38.72</dtePrecioUnitario>
+            <dtePrecio>387.2</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>345.714286</dteMontoGravable>
+                <dteMontoImpuesto>41.485714</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>387.2</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>2022030303348 Identificador de Mascotas</dteDescripcion>
+            <dtePrecioUnitario>7.04</dtePrecioUnitario>
+            <dtePrecio>70.4</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>62.857143</dteMontoGravable>
+                <dteMontoImpuesto>7.542857</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>70.4</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001323 Cinta Adhesiva Doble Pegamento en Ambos Lados</dteDescripcion>
+            <dtePrecioUnitario>8.8</dtePrecioUnitario>
+            <dtePrecio>88</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>78.571429</dteMontoGravable>
+                <dteMontoImpuesto>9.428571</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>88</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>5551809204892 Cargador para Laptop Universal 120W</dteDescripcion>
+            <dtePrecioUnitario>75.68</dtePrecioUnitario>
+            <dtePrecio>756.8</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>675.714286</dteMontoGravable>
+                <dteMontoImpuesto>81.085714</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>756.8</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>6956822455983 Combo de Teclado y Mouse Inal?mbrico USB Negro</dteDescripcion>
+            <dtePrecioUnitario>88</dtePrecioUnitario>
+            <dtePrecio>880</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>785.714286</dteMontoGravable>
+                <dteMontoImpuesto>94.285714</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>880</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000000749 Micr?fono de Solapa Lavailer Tipo C</dteDescripcion>
+            <dtePrecioUnitario>26.4</dtePrecioUnitario>
+            <dtePrecio>264</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>235.714286</dteMontoGravable>
+                <dteMontoImpuesto>28.285714</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>264</dteTotal>
+          </dteItem>
+          <dteItem BienOServicio="B" NumeroLinea="1">
+            <dteCantidad>10</dteCantidad>
+            <dteUnidadMedida>UNI</dteUnidadMedida>
+            <dteDescripcion>9000000001291 Rizador de Cabello sin Calor</dteDescripcion>
+            <dtePrecioUnitario>24.64</dtePrecioUnitario>
+            <dtePrecio>246.4</dtePrecio>
+            <dteDescuento>0</dteDescuento>
+            <dteImpuestos>
+              <dteImpuesto>
+                <dteNombreCorto>IVA</dteNombreCorto>
+                <dteCodigoUnidadGravable>1</dteCodigoUnidadGravable>
+                <dteMontoGravable>220</dteMontoGravable>
+                <dteMontoImpuesto>26.4</dteMontoImpuesto>
+              </dteImpuesto>
+            </dteImpuestos>
+            <dteTotal>246.4</dteTotal>
+          </dteItem>
+        </dteItems>
+        <dteTotales>
+          <dteTotalImpuestos>
+            <dteTotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="2431.628571" />
+          </dteTotalImpuestos>
+          <dteGranTotal>22695.2</dteGranTotal>
+        </dteTotales>
+      </dteDatosEmision>
+    <dteCertificacion><dteNITCertificador>50510231</dteNITCertificador><dteNombreCertificador>Megaprint, S.A.</dteNombreCertificador><dteNumeroAutorizacion Numero="2670480251" Serie="2FFB55CC">2FFB55CC-9F2C-4B7B-8F03-57051ABA4E69</dteNumeroAutorizacion><dteFechaHoraCertificacion>2023-12-22T11:42:32.570-06:00</dteFechaHoraCertificacion></dteCertificacion></dteDTE>
+    
+  </dteSAT>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-58fcf223-91df-4ce5-99a5-93ba2ca87b31">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+<ds:Reference Id="xmldsig-58fcf223-91df-4ce5-99a5-93ba2ca87b31-ref0" URI="#DatosEmision">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>/G5ruXpQWdctAw53GV9trOeOR6ve9eOAfnkY03Z2lXk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-58fcf223-91df-4ce5-99a5-93ba2ca87b31-signedprops">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>Gnz2ejutGbPAe4VzutbVLO38v/fFi3fcEdnTuSfcf48=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-58fcf223-91df-4ce5-99a5-93ba2ca87b31-sigvalue">
+I1snjjIR/cWBjph1uMzi8FUewsimJK6ChESZuegfQC8zBiHhxwrCCSI2UymUDE9VUEJqKFA2+obM
+7iNAXpkZuRBZebCJoSo8t3dYSKwY/rg/kEWvuudF5cwroO1u4uTJayV16QATjkrWpphEYZR09Wee
+HWNVxKbfE05z+VOsa1Si4vCJurrebIZNXfqg7co/3/bZ5SqLtCbdaJs0cfHmCYrKkfmvBNLEvoj+
+epra+jFnsYasMyaFUKc0uJ34R4fG3QsWVvYgWiSRokC6bAy8a7JQ/0kJGsy9ox6Dmc+OFRklxe/t
+T8exCvf2s4DX6YRjXWEo4+90P1ruw0AF5JEkSQ==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIDYTCCAkmgAwIBAgIIMo3dFv2VzFwwDQYJKoZIhvcNAQELBQAwODE2MDQGA1UEAwwtU3VwZXJp
+bnRlbmRlbmNpYSBkZSBBZG1pbmlzdHJhY2lvbiBUcmlidXRhcmlhMB4XDTIzMDcyNTE1NDcyNFoX
+DTI1MDcyNDE1NDcyNFowKDERMA8GA1UEAwwINzU0MjM5NTIxEzARBgNVBAoMCnNhdC5nb2IuZ3Qw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC0yUj5V/Lm+fx+QE3dewa1CrWnSKkV+SxY
+kgaPmtIzky1FT4XJLx22Nt5opQReLk8ZEIaEN8hPof1kKp5wyMzJQwd4pjPs8wrkfCZbOL4gWPQZ
+m2zSdhxnPrOksC19rXIsz5oMvdDrf2V6UWesBtySJr4ekNtLIPLnIiHXErexgX4vwilcF/nGsQeJ
+MabzgYWlEH4WTtUh7aMmkACPwQZkykiJTfJlZrNHaRO6Ol7L7RPWI2QllveZ/T7Mw3Lyf26ZiHOp
+24qiVJIpnbFPRpFDk30nGV2sKK8zfsVDaKn79j0jGHOxpr6eFw6stjvy45H1ergzedeILhCurwTB
+1yy7AgMBAAGjfzB9MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUWIJ2jVgosclDBAK01cheai//
++EowHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMB0GA1UdDgQWBBRR8A5zN+wsukQCvAFE
+S0x36+m/+zAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcNAQELBQADggEBAArVQLwKB2iazcVpfpd8
+MLWfTB942z6yCREbmnrCGgFsckJtCgCKRSo2dByWk7V/UHoMNqrxtSm7AFoiQvae5nhAodfYQNu9
+3/jnF0Ju3sLM9T59IsOFS9ZHbnnaegoudJmLyTkIsl589sZMtcjKN1ThoHnlyRzBwEgi98xCsca4
+dT59InAI492pU8+WvB4kzzNT+fsGH+bQkj91Qp+ipccV0PxfDyHY5rnFDAU8AZUKhTHUg/oMLK/n
+ua5weVCYam/hhL7awLkjCbA85OOViEbNzJdeNv3Nf9RPJ4+YEtOnv+xGpcKyaJUwOVWwV5Z5KMOz
+mQlNaL8d2SoXew2WKfA=
+</ds:X509Certificate>
+<ds:X509SubjectName>o=sat.gob.gt,cn=75423952</ds:X509SubjectName>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>cn=Superintendencia de Administracion Tributaria</ds:X509IssuerName>
+<ds:X509SerialNumber>3642810764426071132</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-58fcf223-91df-4ce5-99a5-93ba2ca87b31"><xades:SignedProperties Id="xmldsig-58fcf223-91df-4ce5-99a5-93ba2ca87b31-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2023-12-22T11:42:32.544-06:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>MCraIXKtZpd9/ILjbFz/c4JAMFUomwm+iArzWjBq8GA=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>cn=Superintendencia de Administracion Tributaria</ds:X509IssuerName><ds:X509SerialNumber>3642810764426071132</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-ace03f8c-98e4-46c8-8835-fec3f1c4fb58">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+<ds:Reference Id="xmldsig-ace03f8c-98e4-46c8-8835-fec3f1c4fb58-ref0" URI="#DatosCertificados">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>gKysfrwhWBgLpmM5/u4tNlQawsx+KMff6QqLtTr7cN4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-ace03f8c-98e4-46c8-8835-fec3f1c4fb58-signedprops">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+<ds:DigestValue>Dg8vp0QAKlZNz87qUhsBqK9UP4hnhgCmHqNaFg2Z7VA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-ace03f8c-98e4-46c8-8835-fec3f1c4fb58-sigvalue">
+LW4bx/SgaDWHhPsdiFb3XCd7mLfdfPZmvDfrMCZP37yLvd1gHBGzfHfQMfAGkErM4FLiJ9DAi8tr
+1iosCYLqaQVN6HnaHuxDu++ig93BxexrNb2wpScsNcGIse87LsTdn6P70A+6Sf70GcqY/tgqmxkd
+b8tLMAId3y5+6Yl/FsOE7CS9ORIwDUhAP8a2UUPYkEJ8AobYZAAHLIvMsov23K4L0merGHD7t3rv
+t0Ql6lyBvYMt7tVDgCiXMVW+BEJ2qtYnnFrR96e34T3zKQxBDC3JQYJoMk2pjDXpQjnjQqNfNBHm
+nIvgHiYNIIyfzVyAL88qYy6lWIWTiuvJaTE8Ew==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKTTCCCDWgAwIBAgIMQUNHVEkyAAAAAAtAMA0GCSqGSIb3DQEBCwUAMIIBLzEmMCQGA1UEAxYd
+UmVnaXN0cm8gRGlnaXRhbCBQcmlzbWEsIFMuQS4xKjAoBgkqhkiG9w0BCQEWG3NlcnZpY2lvYWxj
+bGllbnRlQHByaXNtYS5ndDEmMCQGA1UEChYdUmVnaXN0cm8gRGlnaXRhbCBQcmlzbWEsIFMuQS4x
+EjAQBgNVBAsTCUd1YXRlbWFsYTERMA8GA1UELRMINTkzOTg0ODUxRTBDBgNVBAkWPEF2ZW5pZGEg
+UmVmb3JtYSAzLTQ4IFpvbmEgOSBFZGlmLiBBbmVsIDV0byBuaXZlbCBPZmljaW5hIDUwMzEOMAwG
+A1UEERMFMDEwMDkxEjAQBgNVBAcTCUd1YXRlbWFsYTESMBAGA1UECBMJR3VhdGVtYWxhMQswCQYD
+VQQGEwJHVDAeFw0yMzA2MTIxNzQwMjVaFw0yNTA0MjgxNzQwMjVaMIIB4DElMCMGA1UEAwwcTWVn
+YXByaW50LCBTb2NpZWRhZCBBbsOzbmltYTEpMCcGCSqGSIb3DQEJARYad2lsbHlwYWl6QGdydXBv
+b255eC5jb20uZ3QxETAPBgNVBC0MCDUwNTEwMjMxMRgwFgYDVQQFDA8xODIzIDEzNDE3IDAxMDEx
+NTAzBgNVBAwMLEdlcmVudGUgQWRtaW5pc3RyYXRpdm8geSBSZXByZXNlbnRhbnRlIExlZ2FsMRMw
+EQYDVQQKDApNZWdhcHJpbnQgMREwDwYDVQQLDAhHZXJlbmNpYTEeMBwGA1UEBwwVU2FudGEgQ2F0
+YXJpbmEgUGludWxhMREwDwYDVQQUDAgyMzI5NDgwMDFZMFcGA1UECQxQS2lsb21ldHJvIDkuNSBD
+YXJyZXRlcmEgYSBFbCBTYWx2YWRvciBDQS0wMSBUb3JyZSBUaWdvIFNlZ3VuZG8gTml2ZWwgb2Zp
+Y2luYSAyIEExEjAQBgNVBAYMCUd1YXRlbWFsYTEzMDEGA1UEDQwqQ2VydGlmaWNhZG8gRGlnaXRh
+bCBwYXJhIHBlcnNvbmEganVyw61kaWNhMSkwJwYDVQQqDCBHdWlsbGVybW8gRXJuZXN0byAgUGFp
+eiBHaWxsaW9saTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALGFnJBsSxBDj/oVdQDc
+wOkMok2K47Xl1cuQChODp05v1xA9F+SWLKgQtnh0qMypsM9VQf0SiKrhKzNUnWJUoDFt6NLdd3Xu
+tZ9lQ8KcE6ifGGBbNhWaBgX8vFcWz0rnFd2qtRI6TrKh0t/JybzBKS3mf9KqhYTXxPcpfx5bhUWi
+L9ekXWI5ylD2bphMbzu8C+4tXkbfUjuSLcES+xTsWwvjGjiU6aS1ewwiFQRPUBKvWnlnAMCmryZd
+Z0QBf6w8gfoqwY183+LPk2cW8myvb2Q0JK/8UXSlNMGWBJhERuq5MspbHtlYHWPAsbdCGlg1ux+T
+/HgwmSnnLqmSnE5t5DkCAwEAAaOCA7IwggOuMEAGCCsGAQUFBwEBBDQwMjAwBggrBgEFBQcwAYYk
+aHR0cDovL29jc3AucmVhY2hjb3JlLmNvbS9PQ1NQUFJJU01BMIIBWAYDVR0RBIIBTzCCAUuBJ1By
+ZXN0YWRvciBkZSBTZXJ2aWNpb3MgZGUgQ2VydGlmaWNhY2k/boFbIGF1dG9yaXphZG8gc2VnP24g
+cmVzb2x1Y2k/biBOby4gUFNDLTAxLTIwMTQgZW1pdGlkYSBwb3IgZWwgUlBTQyBkZWwgTWluaXN0
+ZXJpbyBkZSBFY29ub20/YYFXIGRlIGFjdWVyZG8gYSBsYSBMZXkgcGFyYSBlbCByZWNvbm9jaW1p
+ZW50byBkZSBsYXMgY29tdW5pY2FjaW9uZXMgeSBmaXJtYXMgZWxlY3RyP25pY2FzgU4gRGVjcmV0
+byA0Ny0yMDA4IGRlbCBDb25ncmVzbyBkZSBsYSBSZXA/YmxpY2EgZGUgR3VhdGVtYWxhIHkgc3Ug
+cmVnbGFtZW50by4JCQmBGndpbGx5cGFpekBncnVwb29ueXguY29tLmd0MFAGA1UdHwRJMEcwRaBD
+oEGGP2h0dHBzOi8vY2EuYWR2YW50YWdlLXNlY3VyaXR5LmNvbS9hY3ByaXNtYTAxL2NybC9wcmlz
+bWEyX2d0LmNybDCCAWcGA1UdIwSCAV4wggFagBQWdf6ZNR0f1d2vT+ArnRvwu4xKGqGCATekggEz
+MIIBLzEmMCQGA1UEAxYdUmVnaXN0cm8gRGlnaXRhbCBQcmlzbWEsIFMuQS4xKjAoBgkqhkiG9w0B
+CQEWG3NlcnZpY2lvYWxjbGllbnRlQHByaXNtYS5ndDEmMCQGA1UEChYdUmVnaXN0cm8gRGlnaXRh
+bCBQcmlzbWEsIFMuQS4xEjAQBgNVBAsTCUd1YXRlbWFsYTERMA8GA1UELRMINTkzOTg0ODUxRTBD
+BgNVBAkWPEF2ZW5pZGEgUmVmb3JtYSAzLTQ4IFpvbmEgOSBFZGlmLiBBbmVsIDV0byBuaXZlbCBP
+ZmljaW5hIDUwMzEOMAwGA1UEERMFMDEwMDkxEjAQBgNVBAcTCUd1YXRlbWFsYTESMBAGA1UECBMJ
+R3VhdGVtYWxhMQswCQYDVQQGEwJHVIIHQUNHVDJJMTARBglghkgBhvhCAQEEBAMCAIAwCwYDVR0P
+BAQDAgGgMBIGA1UdEwEB/wQIMAYBAQACAQAwHQYDVR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMC
+MA0GCSqGSIb3DQEBCwUAA4ICAQAiKsFMoRHkfsFPRQKO5zlvaory5E6khC8qMcl+9NXrHcIam2N3
+pWt2DvRSYfFmt/YUoQN9AdTEjY6mWFqHjmX6lDWMjfsWNcoJcwhmTWVieGNoVM8acf/YGbCSQ+55
+q7xzyqdcK/Xxmod93N+LSwCiQ1Q/KfvrTRxR3yqqk/Y2MsRtXPSHP9bvIVbYTtfEIv9YQgBnVec2
+zXDllX2EFE+1Ww5ou0PNVR4aNZsslAPjf9Z2SzbVqO/jmz8m/LoJD8XAbBZgbrA2aI3iFGkySsEM
+H61UEB+63qwb1qO35ojqscswBqewF3CfjVtdOCY6YsXNLNFjcH1FNeStUnZnK2osYkZ/u/SyTyKv
+8vA73bQ6Im8b7FaBWe/miRPC8z8Hiz3o2VC3a0R/LivUhlfheo2/tKpY2NftHfz+Mkpedj1xVYpr
+ZJ7U+RKfmJ/RTrhlqw/Svqt0SdthUcLY7NtUyhmO185yj2HbNIl+phG/DhCPy33bv1Ki1t4Z4DA+
+hArJ158oK8iwDFm7JgKgOhLi2WWWtbG5PPnvwLe4nSUrH6OmGI/3ypBmvdqv+vcDe9R5lPlNgY/8
+etF7FZ77aixVh+IUW0PkKwBzdyuAgTuBdatDHsUHVKZ7aV1EuN7+g6dGZzqk7eoT74uu1pytzbD4
+Lg5+MGH8OABslvHD667KkahS3g==
+</ds:X509Certificate>
+<ds:X509SubjectName>givenName=Guillermo Ernesto  Paiz Gillioli,description=Certificado Digital para persona jur?dica,c=Guatemala,street=Kilometro 9.5 Carretera a El Salvador CA-01 Torre Tigo Segundo Nivel oficina 2 A,telephoneNumber=23294800,l=Santa Catarina Pinula,ou=Gerencia,o=Megaprint\ ,title=Gerente Administrativo y Representante Legal,serialNumber=1823 13417 0101,x500UniqueIdentifier=50510231,1.2.840.113549.1.9.1=willypaiz@grupoonyx.com.gt,cn=Megaprint\, Sociedad An?nima</ds:X509SubjectName>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>c=GT,st=Guatemala,l=Guatemala,postalCode=01009,street=Avenida Reforma 3-48 Zona 9 Edif. Anel 5to nivel Oficina 503,x500UniqueIdentifier=59398485,ou=Guatemala,o=Registro Digital Prisma\, S.A.,1.2.840.113549.1.9.1=servicioalcliente@prisma.gt,cn=Registro Digital Prisma\, S.A.</ds:X509IssuerName>
+<ds:X509SerialNumber>20197860511122673671832865600</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-ace03f8c-98e4-46c8-8835-fec3f1c4fb58"><xades:SignedProperties Id="xmldsig-ace03f8c-98e4-46c8-8835-fec3f1c4fb58-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2023-12-22T11:42:32.591-06:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>amdE9GUdpsR7EGCWJJcI9536r0tvlwOeR4svuUfa/ag=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>c=GT,st=Guatemala,l=Guatemala,postalCode=01009,street=Avenida Reforma 3-48 Zona 9 Edif. Anel 5to nivel Oficina 503,x500UniqueIdentifier=59398485,ou=Guatemala,o=Registro Digital Prisma\, S.A.,1.2.840.113549.1.9.1=servicioalcliente@prisma.gt,cn=Registro Digital Prisma\, S.A.</ds:X509IssuerName><ds:X509SerialNumber>20197860511122673671832865600</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature></dteGTDocumento>
